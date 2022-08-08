@@ -1,6 +1,6 @@
 
 public class Fourth {
 	public static void main(String args[]) {
-		 System.out.println("Fifth program");
+		 System.out.println("Fourth program");
 	}
 }
